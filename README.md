@@ -9,7 +9,9 @@ This project is an expense tracker designed to help users manage their finances 
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Configuration](#configuration)
+  - [Contributing](#contributing)
+  - [Live Demo](#live-demo)
+  - [Contact Me](#contact-me)
 
 ## Features
 
@@ -22,30 +24,44 @@ This project is an expense tracker designed to help users manage their finances 
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/expense-tracker.git
-    ```
+   ```bash
+   git clone https://github.com/Adhamxiii/expense-tracker
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd expense-tracker
-    ```
+   ```bash
+   cd expense-tracker
+   ```
 3. Install the dependencies:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
 1. Start the development server:
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 2. Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
-## Configuration
+## Contributing
 
-To configure the expense tracker, you will need to set up environment variables. Create a `.env` file in the root directory and add the following:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-```env
-DATABASE_URL=your_database_url
-SECRET_KEY=your_secret_key
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-feature).
+3. Make your changes and commit them (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature/new-feature).
+5. Create a new Pull Request.
+
+## Live Demo
+
+Check out the live demo of the project [here](https://adham-commerce.vercel.app/).
+
+## Contact Me
+
+If you have any questions or suggestions regarding the project, feel free to contact me:
+
+- Email: [adhamxiii22](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham](https://www.linkedin.com/in/adhamnasser/)
+- GitHub: [Adhamxiii](https://github.com/Adhamxiii)
